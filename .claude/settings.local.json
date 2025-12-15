@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(npx create-next-app:*)",
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(npx shadcn@latest add button card tabs badge sheet accordion input label -y)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm run build:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Complete Next.js 14 migration with new features\n\n- Migrated from static HTML to Next.js 14 App Router\n- Added TypeScript, Tailwind CSS v4, shadcn/ui components\n- Implemented Pizza Creator with live preview\n- Added Menu section with Tab + Card Grid layout\n- Features: search, sort by price, favorites (localStorage)\n- Added scroll to top button, custom 404 page\n- PWA support with manifest\n- Share button for pizza creations\n- Mobile-optimized responsive design\n- English translation throughout\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: Complete Next.js 14 migration with new features\n\n- Migrated from static HTML to Next.js 14 App Router\n- Added TypeScript, Tailwind CSS v4, shadcn/ui components\n- Implemented Pizza Creator with live preview\n- Added Menu section with Tab + Card Grid layout\n- Features: search, sort by price, favorites (localStorage)\n- Added scroll to top button, custom 404 page\n- PWA support with manifest\n- Share button for pizza creations\n- Mobile-optimized responsive design\n- English translation throughout\nEOF\n)\")",
+      "Bash(git commit --amend -m \"$(cat <<''EOF''\nfeat: Complete Next.js 14 migration with new features\n\n- Migrated from static HTML to Next.js 14 App Router\n- Added TypeScript, Tailwind CSS v4, shadcn/ui components\n- Implemented Pizza Creator with live preview\n- Added Menu section with Tab + Card Grid layout\n- Features: search, sort by price, favorites (localStorage)\n- Added scroll to top button, custom 404 page\n- PWA support with manifest\n- Share button for pizza creations\n- Mobile-optimized responsive design\n- English translation throughout\nEOF\n)\")"
+    ]
+  }
+}
