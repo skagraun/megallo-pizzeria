@@ -117,4 +117,4 @@ MIT License - feel free to use this project for your own purposes.
 
 ## Author
 
-**SkaSoft** - [skasoft.hu](https://www.skasoft.dev)
+**SkaSoft** - [skasoft.dev](https://www.skasoft.dev)
